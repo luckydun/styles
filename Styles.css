@@ -1,0 +1,21 @@
+p{
+    color:cyan;
+    font-size:30px;
+    font-family:cursive;
+    text-align:center;
+}
+h1{
+    text-align:center;
+    color:cyan;
+    font-family:fantasy;
+    font-size:40px;
+}
+tr{
+    color:purple;
+    font-size:25;
+}
+h2{
+    font-size:50px;
+    color:blue;
+    text-align:right;
+}
